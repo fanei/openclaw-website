@@ -55,6 +55,25 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Practices Showcase */}
+      <section className="container mx-auto px-4 py-24 bg-zinc-50 dark:bg-zinc-900/50">
+        <h2 className="mb-4 text-center text-4xl font-bold text-zinc-900 dark:text-zinc-100">
+          实践案例
+        </h2>
+        <p className="mb-8 text-center text-lg text-zinc-600 dark:text-zinc-400">
+          探索社区构建的精彩项目，学习最佳实践
+        </p>
+        <div className="flex justify-center">
+          <a
+            href="/practices"
+            className="inline-flex items-center gap-2 rounded-full bg-purple-600 px-8 py-3 font-semibold text-white transition-colors hover:bg-purple-700"
+          >
+            <span>查看所有案例</span>
+            <span>→</span>
+          </a>
+        </div>
+      </section>
+
       {/* Installation Section */}
       <section id="install" className="container mx-auto px-4 py-24">
         <h2 className="mb-12 text-center text-4xl font-bold text-zinc-900 dark:text-zinc-100">
