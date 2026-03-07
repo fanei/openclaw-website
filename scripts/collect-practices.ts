@@ -151,11 +151,6 @@ function extractFromReadme(readme: string): {
     /(?:Key Features?|关键特性)[:：]\s*([^\n]+)/i,
   ];
 
-  const codePatterns = [
-    /```(?:ts|js|typescript|javascript)[\s\S]*?```/g,
-    /```(?:bash|sh)[\s\S]*?```/g,
-  ];
-
   let useCase = '通用AI助手项目';
   let keyFeatures: string[] = ['基于OpenClaw构建', '多平台集成', '自动化任务'];
   let codeSnippet: string | undefined;
@@ -183,7 +178,9 @@ function extractFromReadme(readme: string): {
   }
 
   // 提取代码片段（取第一个代码块）
-  const codeMatches = readme.matchAll(codePatterns);
+  // 匹配 TypeScript/JavaScript 或 Bash 代码块
+  const codePattern = /```(?:ts|js|typescript|javascript|bash|sh)[\s\S]*?```/g;
+  const codeMatches = readme.matchAll(codePattern);
   const firstCode = codeMatches.next();
   if (!firstCode.done && firstCode.value) {
     codeSnippet = firstCode.value[0]
