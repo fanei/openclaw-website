@@ -33,3 +33,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# scripts with secrets (use env vars)
+scripts/cron-collect.sh
+scripts/cron-collect-manually.sh
