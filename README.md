@@ -119,3 +119,4 @@ MIT License
 - [OpenClaw Discord 社区](https://discord.gg/clawd)
 - [Next.js 文档](https://nextjs.org/docs)
 - [Tailwind CSS 文档](https://tailwindcss.com/docs)
+# Vercel deployment fix
