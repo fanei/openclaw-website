@@ -4,7 +4,7 @@
     "title": "Openclaw",
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "url": "https://github.com/openclaw/openclaw",
-    "stars": 273269,
+    "stars": 273271,
     "author": "openclaw",
     "language": "TypeScript",
     "topics": [
@@ -20,7 +20,7 @@
       "多平台集成",
       "自动化任务"
     ],
-    "collectedAt": "2026-03-07T09:46:12.202Z"
+    "collectedAt": "2026-03-07T09:47:25.231Z"
   },
   {
     "id": "1147210886",
@@ -37,7 +37,7 @@
       "多平台集成",
       "自动化任务"
     ],
-    "collectedAt": "2026-03-07T09:46:12.722Z"
+    "collectedAt": "2026-03-07T09:47:25.745Z"
   },
   {
     "id": "1151130619",
@@ -54,7 +54,7 @@
       "多平台集成",
       "自动化任务"
     ],
-    "collectedAt": "2026-03-07T09:46:13.118Z"
+    "collectedAt": "2026-03-07T09:47:26.123Z"
   },
   {
     "id": "1151781063",
@@ -73,6 +73,6 @@
       "`clawrouter report`",
       "three-strike escalation"
     ],
-    "collectedAt": "2026-03-07T09:46:13.654Z"
+    "collectedAt": "2026-03-07T09:47:26.663Z"
   }
 ]
