@@ -8,13 +8,20 @@ export default async function PracticesPage() {
     <div className="min-h-screen bg-gradient-to-b from-white to-zinc-50 dark:from-zinc-950 dark:to-black">
       {/* Header */}
       <section className="container mx-auto px-4 py-16">
-        <div className="mb-8">
+        <div className="mb-8 flex items-center justify-between">
           <a
             href="/"
             className="inline-flex items-center text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300"
           >
             <span className="mr-2">←</span>
             返回首页
+          </a>
+          <a
+            href="/about"
+            className="inline-flex items-center text-purple-600 hover:text-purple-700 dark:text-purple-400 dark:hover:text-purple-300"
+          >
+            <span>ℹ️</span>
+            <span className="ml-2">关于 OpenClaw</span>
           </a>
         </div>
 
