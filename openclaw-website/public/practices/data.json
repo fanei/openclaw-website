@@ -4,7 +4,7 @@
     "title": "Openclaw",
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "url": "https://github.com/openclaw/openclaw",
-    "stars": 273271,
+    "stars": 273483,
     "author": "openclaw",
     "language": "TypeScript",
     "topics": [
@@ -20,14 +20,14 @@
       "多平台集成",
       "自动化任务"
     ],
-    "collectedAt": "2026-03-07T09:47:25.231Z"
+    "collectedAt": "2026-03-07T10:46:27.455Z"
   },
   {
     "id": "1147210886",
     "title": "OpenClaw Docker CN IM",
     "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关",
     "url": "https://github.com/justlovemaki/OpenClaw-Docker-CN-IM",
-    "stars": 2762,
+    "stars": 2763,
     "author": "justlovemaki",
     "language": "Shell",
     "topics": [],
@@ -37,7 +37,7 @@
       "多平台集成",
       "自动化任务"
     ],
-    "collectedAt": "2026-03-07T09:47:25.745Z"
+    "collectedAt": "2026-03-07T10:46:27.939Z"
   },
   {
     "id": "1151130619",
@@ -54,7 +54,7 @@
       "多平台集成",
       "自动化任务"
     ],
-    "collectedAt": "2026-03-07T09:47:26.123Z"
+    "collectedAt": "2026-03-07T10:46:28.309Z"
   },
   {
     "id": "1151781063",
@@ -73,6 +73,6 @@
       "`clawrouter report`",
       "three-strike escalation"
     ],
-    "collectedAt": "2026-03-07T09:47:26.663Z"
+    "collectedAt": "2026-03-07T10:46:29.562Z"
   }
 ]
