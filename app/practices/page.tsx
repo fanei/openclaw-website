@@ -1,8 +1,17 @@
-import { loadPractices } from './data';
+import { loadPractices, translatePractices, groupPracticesByDate, formatDate } from './data';
 import type { PracticeCase } from './data';
 
 export default async function PracticesPage() {
   const practices = await loadPractices();
+
+  // 翻译英文描述
+  const translatedPractices = translatePractices(practices);
+
+  // 按日期分组
+  const groupedPractices = groupPracticesByDate(translatedPractices);
+
+  // 按日期倒序排列
+  const sortedDates = Object.keys(groupedPractices).sort().reverse();
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-white to-zinc-50 dark:from-zinc-950 dark:to-black">
@@ -33,7 +42,7 @@ export default async function PracticesPage() {
         </p>
       </section>
 
-      {/* Practices Grid */}
+      {/* Practices by Date */}
       <section className="container mx-auto px-4 pb-24">
         {practices.length === 0 ? (
           <div className="rounded-lg border border-zinc-200 bg-white p-12 text-center dark:border-zinc-800 dark:bg-zinc-900">
@@ -42,9 +51,26 @@ export default async function PracticesPage() {
             </p>
           </div>
         ) : (
-          <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-            {practices.map((practice) => (
-              <PracticeCard key={practice.id} practice={practice} />
+          <div className="space-y-12">
+            {sortedDates.map((date) => (
+              <div key={date}>
+                {/* Date Header */}
+                <div className="mb-6 flex items-center gap-3">
+                  <h2 className="text-2xl font-bold text-zinc-900 dark:text-zinc-100">
+                    📅 {formatDate(date)}
+                  </h2>
+                  <span className="rounded-full bg-blue-100 px-3 py-1 text-sm font-semibold text-blue-800 dark:bg-blue-900/30 dark:text-blue-300">
+                    {groupedPractices[date].length} 个案例
+                  </span>
+                </div>
+
+                {/* Practices Grid */}
+                <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+                  {groupedPractices[date].map((practice) => (
+                    <PracticeCard key={practice.id} practice={practice} />
+                  ))}
+                </div>
+              </div>
             ))}
           </div>
         )}
@@ -73,6 +99,9 @@ export default async function PracticesPage() {
 }
 
 function PracticeCard({ practice }: { practice: PracticeCase }) {
+  // 使用翻译后的描述，如果没有翻译则使用原文
+  const displayDescription = practice.descriptionTranslated || practice.description;
+
   return (
     <article className="flex flex-col rounded-lg border border-zinc-200 bg-white shadow-sm transition-all hover:shadow-md dark:border-zinc-800 dark:bg-zinc-900">
       <div className="flex-1 p-6">
@@ -83,7 +112,7 @@ function PracticeCard({ practice }: { practice: PracticeCase }) {
 
         {/* Description */}
         <p className="mb-4 text-sm text-zinc-600 dark:text-zinc-400">
-          {practice.description}
+          {displayDescription}
         </p>
 
         {/* Use Case */}
