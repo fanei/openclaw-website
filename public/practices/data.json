@@ -1,17 +1,431 @@
 [
   {
-    "id": "1103012935",
-    "title": "Openclaw",
-    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-    "url": "https://github.com/openclaw/openclaw",
-    "stars": 283250,
-    "author": "openclaw",
+    "id": "1151130619",
+    "title": "VisionClaw",
+    "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
+    "url": "https://github.com/Intent-Lab/VisionClaw",
+    "stars": 1559,
+    "author": "Intent-Lab",
+    "language": "Unknown",
+    "topics": [],
+    "useCase": "视觉AI应用",
+    "keyFeatures": [
+      "社区热门",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/Intent-Lab/VisionClaw.git\ncd VisionClaw\n",
+    "collectedAt": "2026-03-10T05:50:22.145Z"
+  },
+  {
+    "id": "1152654395",
+    "title": "secure-openclaw",
+    "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+    "url": "https://github.com/ComposioHQ/secure-openclaw",
+    "stars": 1359,
+    "author": "ComposioHQ",
+    "language": "JavaScript",
+    "topics": [
+      "clawdbot",
+      "clawdbot-security",
+      "moltbot",
+      "moltbot-skills",
+      "openclaw",
+      "openclaw-plugin",
+      "openclaw-security",
+      "openclaw-skills",
+      "openclawd"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "基于OpenClaw构建",
+      "多平台集成",
+      "社区热门"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/ComposioHQ/secure-openclaw.git\ncd secure-openclaw\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1167607007",
+    "title": "clawpanel",
+    "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
+    "url": "https://github.com/qingchencloud/clawpanel",
+    "stars": 670,
+    "author": "qingchencloud",
+    "language": "JavaScript",
+    "topics": [
+      "admin-panel",
+      "ai-agent",
+      "ai-assistant",
+      "ai-tools",
+      "chatgpt",
+      "cross-platform",
+      "deepseek",
+      "desktop-app",
+      "image-recognition",
+      "llm",
+      "multimodal",
+      "openclaw",
+      "rust",
+      "tauri",
+      "tauri-v2",
+      "tool-calling",
+      "vite"
+    ],
+    "useCase": "视觉AI应用",
+    "keyFeatures": [
+      "基于OpenClaw构建",
+      "多平台集成",
+      "社区热门"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/qingchencloud/clawpanel.git\ncd clawpanel\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1157128270",
+    "title": "openclaw-assistant-mvp",
+    "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech",
+    "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
+    "stars": 389,
+    "author": "andyhuo520",
+    "language": "JavaScript",
+    "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "社区热门",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/andyhuo520/openclaw-assistant-mvp.git\ncd openclaw-assistant-mvp\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1150995498",
+    "title": "goclaw",
+    "description": "An open-source AI assistant framework like openclaw",
+    "url": "https://github.com/smallnest/goclaw",
+    "stars": 358,
+    "author": "smallnest",
+    "language": "Go",
+    "topics": [
+      "openclaw",
+      "openclaw-skills",
+      "pi-co-claw",
+      "picoclaw"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "基于OpenClaw构建",
+      "多平台集成",
+      "社区热门"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/smallnest/goclaw.git\ncd goclaw\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1143206796",
+    "title": "memUBot",
+    "description": "The Enterprise-Ready OpenClaw. Your Proactive AI Assistant That Remembers Everything",
+    "url": "https://github.com/NevaMind-AI/memUBot",
+    "stars": 278,
+    "author": "NevaMind-AI",
     "language": "TypeScript",
     "topics": [
+      "agent",
+      "agent-memory",
+      "openclaw",
+      "proactive"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "基于OpenClaw构建",
+      "多平台集成",
+      "社区热门"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/NevaMind-AI/memUBot.git\ncd memUBot\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1146891512",
+    "title": "openclaw-helm",
+    "description": "🦞 Helm chart for OpenClaw - personal AI assistant",
+    "url": "https://github.com/serhanekicii/openclaw-helm",
+    "stars": 146,
+    "author": "serhanekicii",
+    "language": "Unknown",
+    "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "社区热门",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/serhanekicii/openclaw-helm.git\ncd openclaw-helm\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1143330984",
+    "title": "openclaw-coolify",
+    "description": "OpenClaw aka (Clawdbot, MoltBot) is an open agent platform that runs on your machine and works from the chat apps you already use. WhatsApp, Telegram, Discord, Slack, Teams—wherever you are, your AI assistant follows.",
+    "url": "https://github.com/essamamdani/openclaw-coolify",
+    "stars": 127,
+    "author": "essamamdani",
+    "language": "Shell",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "aiassistant",
+      "clawdbot",
+      "coolify",
+      "coolifytemplate",
+      "moltbot",
+      "openclaw",
+      "tunnel",
+      "vercel"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "基于OpenClaw构建",
+      "多平台集成",
+      "社区热门"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/essamamdani/openclaw-coolify.git\ncd openclaw-coolify\n\nchmod +x setup.sh\n./setup.sh",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1158687689",
+    "title": "baudbot",
+    "description": "Multiplayer, always-on AI dev assistant - like OpenClaw but for your whole team on Slack 🤖 ",
+    "url": "https://github.com/modem-dev/baudbot",
+    "stars": 108,
+    "author": "modem-dev",
+    "language": "TypeScript",
+    "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "社区热门",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/modem-dev/baudbot.git\ncd baudbot\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1167133717",
+    "title": "BioClaw",
+    "description": "AI-Powered Bioinformatics Research Assistant. Built on OpenClaw.",
+    "url": "https://github.com/Runchuan-BU/BioClaw",
+    "stars": 98,
+    "author": "Runchuan-BU",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "bioinformatics",
+      "openclaw",
+      "pubmed",
+      "pymol"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "基于OpenClaw构建",
+      "多平台集成",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/Runchuan-BU/BioClaw.git\ncd BioClaw\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1109626395",
+    "title": "WeChat-MCP",
+    "description": "WeChat-MCP: let Openclaw/Claude/ChatGPT and other AI assistants read and reply to WeChat for you",
+    "url": "https://github.com/BiboyQG/WeChat-MCP",
+    "stars": 89,
+    "author": "BiboyQG",
+    "language": "Python",
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "wechat"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "多平台集成",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/BiboyQG/WeChat-MCP.git\ncd WeChat-MCP\n\npip install -r requirements.txt\npython main.py",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1158513680",
+    "title": "iCrab",
+    "description": "Minimal openClaw style personal AI assistant that runs on an old iPhone as a server.",
+    "url": "https://github.com/Snehal-Reddy/iCrab",
+    "stars": 88,
+    "author": "Snehal-Reddy",
+    "language": "Rust",
+    "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/Snehal-Reddy/iCrab.git\ncd iCrab\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1147477063",
+    "title": "registry-broker-skills",
+    "description": "AI agent skills for the Universal Registry - search, chat, and register 72,000+ agents across 14+ protocols. Works with Claude, Codex, Cursor, OpenClaw, and any AI assistant.",
+    "url": "https://github.com/hashgraph-online/registry-broker-skills",
+    "stars": 79,
+    "author": "hashgraph-online",
+    "language": "TypeScript",
+    "topics": [
+      "a2a",
+      "ai-agents",
+      "clawhub",
+      "hashgraph",
+      "hedera",
+      "mcp",
+      "openclaw",
+      "registry-broker"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "基于OpenClaw构建",
+      "多平台集成",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/hashgraph-online/registry-broker-skills.git\ncd registry-broker-skills\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1145817719",
+    "title": "openclaw-unraid",
+    "description": "Unraid Community Applications template for OpenClaw AI assistant",
+    "url": "https://github.com/jdhill777/openclaw-unraid",
+    "stars": 56,
+    "author": "jdhill777",
+    "language": "Unknown",
+    "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/jdhill777/openclaw-unraid.git\ncd openclaw-unraid\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1148161052",
+    "title": "openclaw-mcp",
+    "description": "🦞 MCP server for OpenClaw - secure bridge between Claude.ai and your self-hosted OpenClaw assistant with OAuth2 authentication",
+    "url": "https://github.com/freema/openclaw-mcp",
+    "stars": 56,
+    "author": "freema",
+    "language": "TypeScript",
+    "topics": [
+      "docker-compose",
+      "mcp-server",
+      "open-claw",
+      "productivity",
+      "security",
+      "typescript"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "多平台集成",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/freema/openclaw-mcp.git\ncd openclaw-mcp\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1148115338",
+    "title": "liteclaw",
+    "description": "LiteClaw is a high-performance, single-binary rewrite of OpenClaw(https://github.com/openclaw/openclaw) (TypeScript) in Golang. It aims to provide the same powerful personal AI assistant capabilities with a fraction of the resource footprint.",
+    "url": "https://github.com/liteclaw/liteclaw",
+    "stars": 52,
+    "author": "liteclaw",
+    "language": "Go",
+    "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/liteclaw/liteclaw.git\ncd liteclaw\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1158960069",
+    "title": "opencrust",
+    "description": "Personal AI assistant platform, rewritten in Rust from OpenClaw",
+    "url": "https://github.com/opencrust-org/opencrust",
+    "stars": 48,
+    "author": "opencrust-org",
+    "language": "Rust",
+    "topics": [
       "ai",
-      "assistant",
-      "crustacean",
-      "molty",
+      "ai-assistant",
+      "chatbot",
+      "discord-bot",
+      "llm",
+      "open-source",
+      "personal-assistant",
+      "rust",
+      "rust-lang",
+      "telegram-bot"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "多平台集成",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/opencrust-org/opencrust.git\ncd opencrust\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1149926386",
+    "title": "nanoClaw",
+    "description": "Easy install, Ultra-lightweight secure AI assistant. Inspired by OpenClaw. 🦀",
+    "url": "https://github.com/ysz/nanoClaw",
+    "stars": 44,
+    "author": "ysz",
+    "language": "Python",
+    "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/ysz/nanoClaw.git\ncd nanoClaw\n\npip install -r requirements.txt\npython main.py",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1161623310",
+    "title": "clawhuddle",
+    "description": "Self-hosted OpenClaw for teams — Give every person on your team their own AI assistant.  Each team member gets an isolated OpenClaw instance with zero maintenance. You add people, the system handles the rest.",
+    "url": "https://github.com/allen-hsu/clawhuddle",
+    "stars": 43,
+    "author": "allen-hsu",
+    "language": "TypeScript",
+    "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/allen-hsu/clawhuddle.git\ncd clawhuddle\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1161458413",
+    "title": "awesome-claw",
+    "description": "A curated list of efficient, open-source, OpenClaw-inspired AI assistant agents.",
+    "url": "https://github.com/sameeerkashyap/awesome-claw",
+    "stars": 40,
+    "author": "sameeerkashyap",
+    "language": "Unknown",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "clawdbot",
+      "clawdhub",
       "openclaw"
     ],
     "useCase": "通用AI助手项目",
@@ -20,63 +434,228 @@
       "多平台集成",
       "自动化任务"
     ],
-    "codeSnippet": "npm install -g openclaw@latest\n# or: pnpm add -g openclaw@latest\n\nopenclaw onboard --install-daemon\n```\n...",
-    "collectedAt": "2026-03-09T05:22:15.244Z"
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/sameeerkashyap/awesome-claw.git\ncd awesome-claw\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
   },
   {
-    "id": "1147210886",
-    "title": "OpenClaw Docker CN IM",
-    "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关",
-    "url": "https://github.com/justlovemaki/OpenClaw-Docker-CN-IM",
-    "stars": 2932,
-    "author": "justlovemaki",
-    "language": "Shell",
+    "id": "1152161966",
+    "title": "OpenClaw-app",
+    "description": "iOS app for iteraction with persoanl OpenClaw AI assistant",
+    "url": "https://github.com/acidoom/OpenClaw-app",
+    "stars": 37,
+    "author": "acidoom",
+    "language": "Swift",
     "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/acidoom/OpenClaw-app.git\ncd OpenClaw-app\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1080213692",
+    "title": "arrowhead",
+    "description": "Fast Obsidian-aware search and discovery that makes AI agents or OpenClaw your true knowledge assistant.",
+    "url": "https://github.com/totocaster/arrowhead",
+    "stars": 34,
+    "author": "totocaster",
+    "language": "Rust",
+    "topics": [
+      "ai",
+      "claude",
+      "claude-ai",
+      "codex",
+      "mcp",
+      "notes",
+      "obsidian",
+      "pkm",
+      "plaintext-commons",
+      "rust"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "多平台集成",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/totocaster/arrowhead.git\ncd arrowhead\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1153550046",
+    "title": "OpenVision",
+    "description": "Open-source iOS app connecting Meta Ray-Ban smart glasses to AI assistants (OpenClaw + Gemini Live)",
+    "url": "https://github.com/rayl15/OpenVision",
+    "stars": 26,
+    "author": "rayl15",
+    "language": "Swift",
+    "topics": [
+      "ai-assistant",
+      "gemini",
+      "ios",
+      "meta-glasses",
+      "openclaw",
+      "ray-ban",
+      "smart-glasses",
+      "swift"
+    ],
     "useCase": "通用AI助手项目",
     "keyFeatures": [
       "基于OpenClaw构建",
       "多平台集成",
       "自动化任务"
     ],
-    "codeSnippet": "docker pull justlikemaki/openclaw-docker-cn-im:latest\n```\n...",
-    "collectedAt": "2026-03-09T05:22:15.413Z"
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/rayl15/OpenVision.git\ncd OpenVision\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
   },
   {
-    "id": "1151130619",
-    "title": "VisionClaw",
-    "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
-    "url": "https://github.com/sseanliu/VisionClaw",
-    "stars": 1543,
-    "author": "sseanliu",
+    "id": "1161440315",
+    "title": "NanoBot-Android",
+    "description": "Nanobot is a personal AI assistant inspired by OpenClaw. It delivers core agent functionality in just ~4,000 lines of code—99% smaller than alternatives, making it perfect for mobile devices.",
+    "url": "https://github.com/AbuZar-Ansarii/NanoBot-Android",
+    "stars": 25,
+    "author": "AbuZar-Ansarii",
     "language": "Unknown",
     "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/AbuZar-Ansarii/NanoBot-Android.git\ncd NanoBot-Android\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1149488415",
+    "title": "openclaw-glasses",
+    "description": "Voice-controlled AI assistant for Even G1 smart glasses using OpenClaw and MentraOS",
+    "url": "https://github.com/littlebotshi/openclaw-glasses",
+    "stars": 24,
+    "author": "littlebotshi",
+    "language": "TypeScript",
+    "topics": [],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/littlebotshi/openclaw-glasses.git\ncd openclaw-glasses\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1164229349",
+    "title": "crawbot",
+    "description": "Personal Agentic AI Assistant for non-tech user powered by OpenClaw",
+    "url": "https://github.com/Neurons-AI/crawbot",
+    "stars": 23,
+    "author": "Neurons-AI",
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-assistant",
+      "clawdbot",
+      "openclaw",
+      "skills"
+    ],
     "useCase": "通用AI助手项目",
     "keyFeatures": [
       "基于OpenClaw构建",
       "多平台集成",
       "自动化任务"
     ],
-    "codeSnippet": "git clone https://github.com/sseanliu/VisionClaw.git\ncd VisionClaw/samples/CameraAccess\nopen CameraAccess.xcodeproj\n```\n...",
-    "collectedAt": "2026-03-09T05:22:15.595Z"
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/Neurons-AI/crawbot.git\ncd crawbot\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
   },
   {
-    "id": "1151781063",
-    "title": "Awesome OpenClaw Money Maker",
-    "description": "🦞💰 Curated list of ways to make money with OpenClaw - automations, skills, services, and strategies",
-    "url": "https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker",
-    "stars": 111,
-    "author": "BlockRunAI",
-    "language": "Unknown",
-    "topics": [],
+    "id": "1161686315",
+    "title": "openclaw-trading-assistant",
+    "description": "openclaw trading assistant| openclaw trading skill | nof1.ai & openclaw [moltbot] collaboration | We get the best practices from alpha arena trading seasons and bring it to clawdbot All top AI agents, realtime monitoring and news research, gather info from private insiders and many other! Using Hyperliquid API.",
+    "url": "https://github.com/openclaw-trade/openclaw-trading-assistant",
+    "stars": 23,
+    "author": "openclaw-trade",
+    "language": "TypeScript",
+    "topics": [
+      "clawdbot",
+      "clawdbot-trading-assistant",
+      "moltbot",
+      "moltbot-trading-agent",
+      "moltbot-trading-assistant",
+      "openclaw",
+      "openclaw-skills"
+    ],
     "useCase": "通用AI助手项目",
     "keyFeatures": [
-      "** Response caching",
-      "4 routing profiles",
-      "`/imagegen`",
-      "`clawrouter report`",
-      "three-strike escalation"
+      "基于OpenClaw构建",
+      "多平台集成",
+      "自动化任务"
     ],
-    "codeSnippet": "# Install via OpenClaw\nopenclaw plugins install @blockrun/clawrouter\n\n# Or via npm\nnpm install @blockrun/clawrouter@0.11.12\n\n# Or standalone\ncurl -fsSL https://blockrun.ai/ClawRouter-update | bash\n```\n...",
-    "collectedAt": "2026-03-09T05:22:15.810Z"
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/openclaw-trade/openclaw-trading-assistant.git\ncd openclaw-trading-assistant\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1146630540",
+    "title": "openclaw-sidex-kit",
+    "description": "Your personal AI assistant KIT for automated trading with openclaw, with full documentation available at https://devs.sidex.fun/documentation",
+    "url": "https://github.com/sidex-fun/openclaw-sidex-kit",
+    "stars": 22,
+    "author": "sidex-fun",
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "automated-trading"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "多平台集成",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/sidex-fun/openclaw-sidex-kit.git\ncd openclaw-sidex-kit\n\nnpm install\nnpm start",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1146476786",
+    "title": "FasterClaw",
+    "description": "🦞 Faster OpenClaw: Open-source autonomous personal AI assistant",
+    "url": "https://github.com/ishandutta2007/FasterClaw",
+    "stars": 19,
+    "author": "ishandutta2007",
+    "language": "Go",
+    "topics": [
+      "clawdbot",
+      "clawdbot-skill"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "多平台集成",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/ishandutta2007/FasterClaw.git\ncd FasterClaw\n",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
+  },
+  {
+    "id": "1075728498",
+    "title": "MachinaOS",
+    "description": "Personal AI Assistant/Co-Employees that Perform Human Like Tasks. Mashup of N8N + Openclaw",
+    "url": "https://github.com/trohitg/MachinaOS",
+    "stars": 18,
+    "author": "trohitg",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "assistant",
+      "co-employees",
+      "own-your-data",
+      "personal",
+      "secure",
+      "self-hosted"
+    ],
+    "useCase": "通用AI助手项目",
+    "keyFeatures": [
+      "多平台集成",
+      "自动化任务"
+    ],
+    "codeSnippet": "# Clone the repository\ngit clone https://github.com/trohitg/MachinaOS.git\ncd MachinaOS\n\npip install -r requirements.txt\npython main.py",
+    "collectedAt": "2026-03-10T05:50:22.147Z"
   }
 ]
