@@ -4,7 +4,7 @@
     "title": "VisionClaw",
     "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
     "url": "https://github.com/Intent-Lab/VisionClaw",
-    "stars": 1559,
+    "stars": 1561,
     "author": "Intent-Lab",
     "language": "Unknown",
     "topics": [],
@@ -14,7 +14,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/Intent-Lab/VisionClaw.git\ncd VisionClaw\n",
-    "collectedAt": "2026-03-10T06:39:59.576Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1152654395",
@@ -42,14 +42,14 @@
       "社区热门"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/ComposioHQ/secure-openclaw.git\ncd secure-openclaw\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1167607007",
     "title": "clawpanel",
     "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
     "url": "https://github.com/qingchencloud/clawpanel",
-    "stars": 673,
+    "stars": 684,
     "author": "qingchencloud",
     "language": "JavaScript",
     "topics": [
@@ -78,7 +78,7 @@
       "社区热门"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/qingchencloud/clawpanel.git\ncd clawpanel\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1157128270",
@@ -95,7 +95,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/andyhuo520/openclaw-assistant-mvp.git\ncd openclaw-assistant-mvp\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1150995498",
@@ -118,7 +118,7 @@
       "社区热门"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/smallnest/goclaw.git\ncd goclaw\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1143206796",
@@ -141,7 +141,7 @@
       "社区热门"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/NevaMind-AI/memUBot.git\ncd memUBot\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1146891512",
@@ -158,7 +158,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/serhanekicii/openclaw-helm.git\ncd openclaw-helm\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1143330984",
@@ -187,7 +187,7 @@
       "社区热门"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/essamamdani/openclaw-coolify.git\ncd openclaw-coolify\n\nchmod +x setup.sh\n./setup.sh",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1158687689",
@@ -204,7 +204,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/modem-dev/baudbot.git\ncd baudbot\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1167133717",
@@ -228,14 +228,14 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/Runchuan-BU/BioClaw.git\ncd BioClaw\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1109626395",
     "title": "WeChat-MCP",
     "description": "WeChat-MCP: let Openclaw/Claude/ChatGPT and other AI assistants read and reply to WeChat for you",
     "url": "https://github.com/BiboyQG/WeChat-MCP",
-    "stars": 90,
+    "stars": 91,
     "author": "BiboyQG",
     "language": "Python",
     "topics": [
@@ -249,7 +249,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/BiboyQG/WeChat-MCP.git\ncd WeChat-MCP\n\npip install -r requirements.txt\npython main.py",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1158513680",
@@ -265,7 +265,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/Snehal-Reddy/iCrab.git\ncd iCrab\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1147477063",
@@ -292,7 +292,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/hashgraph-online/registry-broker-skills.git\ncd registry-broker-skills\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1145817719",
@@ -308,7 +308,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/jdhill777/openclaw-unraid.git\ncd openclaw-unraid\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1148161052",
@@ -332,7 +332,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/freema/openclaw-mcp.git\ncd openclaw-mcp\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1148115338",
@@ -348,7 +348,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/liteclaw/liteclaw.git\ncd liteclaw\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1158960069",
@@ -376,7 +376,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/opencrust-org/opencrust.git\ncd opencrust\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1149926386",
@@ -392,7 +392,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/ysz/nanoClaw.git\ncd nanoClaw\n\npip install -r requirements.txt\npython main.py",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1161623310",
@@ -408,7 +408,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/allen-hsu/clawhuddle.git\ncd clawhuddle\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1161458413",
@@ -435,14 +435,14 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/sameeerkashyap/awesome-claw.git\ncd awesome-claw\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1152161966",
     "title": "OpenClaw-app",
     "description": "iOS app for iteraction with persoanl OpenClaw AI assistant",
     "url": "https://github.com/acidoom/OpenClaw-app",
-    "stars": 37,
+    "stars": 38,
     "author": "acidoom",
     "language": "Swift",
     "topics": [],
@@ -451,7 +451,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/acidoom/OpenClaw-app.git\ncd OpenClaw-app\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1080213692",
@@ -479,7 +479,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/totocaster/arrowhead.git\ncd arrowhead\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1153550046",
@@ -506,7 +506,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/rayl15/OpenVision.git\ncd OpenVision\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1161440315",
@@ -522,7 +522,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/AbuZar-Ansarii/NanoBot-Android.git\ncd NanoBot-Android\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1149488415",
@@ -538,7 +538,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/littlebotshi/openclaw-glasses.git\ncd openclaw-glasses\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1164229349",
@@ -565,7 +565,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/Neurons-AI/crawbot.git\ncd crawbot\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1161686315",
@@ -591,7 +591,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/openclaw-trade/openclaw-trading-assistant.git\ncd openclaw-trading-assistant\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1146630540",
@@ -611,7 +611,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/sidex-fun/openclaw-sidex-kit.git\ncd openclaw-sidex-kit\n\nnpm install\nnpm start",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1146476786",
@@ -631,7 +631,7 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/ishandutta2007/FasterClaw.git\ncd FasterClaw\n",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   },
   {
     "id": "1075728498",
@@ -656,6 +656,6 @@
       "自动化任务"
     ],
     "codeSnippet": "# Clone the repository\ngit clone https://github.com/trohitg/MachinaOS.git\ncd MachinaOS\n\npip install -r requirements.txt\npython main.py",
-    "collectedAt": "2026-03-10T06:39:59.577Z"
+    "collectedAt": "2026-03-10T08:39:05.326Z"
   }
 ]
